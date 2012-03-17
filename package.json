@@ -29,6 +29,7 @@
     "devDependencies": {
         "buster": "*",
         "htmlparser": "~1.7",
-        "soupselect": "~0.2"
+        "soupselect": "~0.2",
+        "json": "https://github.com/meisl/JSON-js/tarball/master"
     }
 }
